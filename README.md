@@ -9,6 +9,6 @@ Group_Project:
 
 Software simulation of Lego Mindstorms NXTWay (MATLAB).
 
-Hardware implementations of LQR, MPC on an inverted pendulum (LabVIEW). To enable reference tracking for MPC, LabVIEW's MPC blocks were used over explicit MathScript blocks.
+Hardware implementations of LQR, MPC on an inverted pendulum (LabVIEW). To enable reference tracking for MPC, LabVIEW's MPC blocks were used rather than explicit MathScript blocks.
 
 Software simulation of ILC on an inverted pedulum state-space model (LabVIEW).
