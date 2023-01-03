@@ -3,8 +3,6 @@ My attempts at ELEC6228 Applied Control Systems tasks. This consisted of three i
 
 Group project LabVIEW hardware and software versions: LabVIEW 2018 with Quanser Qube Servo and NI MyRIO. 
 
-Individual software simulations.
-
 Group_Project:
 
 
