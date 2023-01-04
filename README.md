@@ -1,5 +1,5 @@
 # Applied-Control-Systems-Module
-My attempts at ELEC6228 Applied Control Systems tasks. This consisted of three individual works to show understanding of LQR, MPC and ILC, followed by a hardware implementation group project. Conducted in April 2022.
+My attempts at Applied Control Systems tasks. This consisted of three individual works to show understanding of LQR, MPC and ILC, followed by a hardware implementation group project. Conducted in April 2022.
 
 Group project LabVIEW hardware and software versions: LabVIEW 2018 with Quanser Qube Servo and NI MyRIO. 
 
